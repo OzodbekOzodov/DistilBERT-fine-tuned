@@ -7,7 +7,7 @@
 
 Clone the repo using  
 
-`$ git clone https://github.com/iame-uni-bonn/final-project-OzodbekOzodov`
+`$ git clone https://github.com/OzodbekOzodov/DistilBERT-fine-tuned
 
 ## Setting up the environment for dependency handling  
 
