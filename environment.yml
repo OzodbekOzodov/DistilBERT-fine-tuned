@@ -1,0 +1,19 @@
+name: policy-speech-classification
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - keras
+  - pytorch
+  - jupyter
+  - matplotlib
+  - seaborn
+  - spacy
+  - pip
+  - pip:
+      - transformers
