@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/R1vgPUT1)
 # Fine-Tuning BERT for Sentiment Analysis of Monetary Policy Speeches: A Study Using Central Bank Transcripts
 
 ### Please, pay attention that you can not see the commit history and the path the model is developed, because the original code I wrote was in private, organizational repository, and I took relevant parts to this repository
@@ -7,7 +6,7 @@
 
 Clone the repo using  
 
-`$ git clone https://github.com/OzodbekOzodov/DistilBERT-fine-tuned
+`$ git clone https://github.com/OzodbekOzodov/DistilBERT-fine-tuned`
 
 ## Setting up the environment for dependency handling  
 
